@@ -1,0 +1,1 @@
+Todos los ejercios (métodos) están en el index.ts
